@@ -10,12 +10,12 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "The Literary Blurb Economy"
+    "title": "Fiction Appearing in Major Critical Quarterlies, 1940-1959"
   },
   "legend": {
-    "edgeLabel": "Blurb relationship",
-    "colorLabel": "Color represents an automatic grouping of authors based on who they have blurb relationships with.",
-    "nodeLabel": "Author"
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
   },
   "features": {
     "search": true,
